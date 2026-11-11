@@ -266,7 +266,7 @@ strong{font-weight:500;color:var(--ink)}
 .page-hero .lead.measure{color:var(--muted)}
 
 /* Services TOC */
-.toc ol{list-style:none;padding:0;margin:72px 0 0;display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line)}
+.toc ol{list-style:none;padding:0;margin:72px 0 0;display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--line)}
 .toc li{border-bottom:1px solid var(--line)}
 .toc a{display:flex;gap:16px;align-items:baseline;padding:20px 20px 20px 0;font-size:15px;color:var(--ink);transition:color .3s,transform .4s var(--ease)}
 .toc a:hover{color:var(--accent-ink);transform:translateX(6px)}
